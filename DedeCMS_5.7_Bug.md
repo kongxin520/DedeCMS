@@ -43,6 +43,10 @@ DedeCMS 5.7 Bug
 > POC : http://127.0.0.1/include/downmix.inc.php
 >
 >
+>
+>
+>
+>
 > Location: /dede/inc/inc_archives_functions.php
 >
 > Code:
