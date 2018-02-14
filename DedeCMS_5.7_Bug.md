@@ -22,7 +22,7 @@ DedeCMS 5.7 Bug
 >
 > Return error :
 >
-> Fatal error: Call to undefined function helper() in D:\wwwroot\dedecms\include\downmix.inc.php on line 13
+> Fatal error: Call to undefined function helper() in /www/include/downmix.inc.php on line 13
 >
 > Harm:
 >
